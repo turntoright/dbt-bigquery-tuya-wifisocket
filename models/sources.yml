@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: tuya
+    database: turnright-chch-project  
+    schema: tuya  
+    tables:
+      - name: tuya_wifi_socket_add_ele_log
+
