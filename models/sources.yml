@@ -6,4 +6,12 @@ sources:
     schema: tuya  
     tables:
       - name: tuya_wifi_socket_add_ele_log
+      - name: tuya_ele_log_id
+    
+  - name: electricity
+    database: turnright-chch-project
+    schema: electricity
+    tables:
+      - name: gs_6meldrum_usage
+
 

@@ -1,9 +1,10 @@
-device_id,name
-ebd9f8a59c1627ccbfekab,Study room
-eb3002c57cc7173709c2ow,Heater 2
-ebaccf355c27310740a2aq,Refrigerator
-eb7f4b484b88880d26syuf,Washing machine
-eb494da64ad42697ffjt87,Heater 3
-ebe097055f10e8fa08umi6,Heater 1
-ebd5df1142bb22b06c2tep,Heater 4
-ebf6e301aeda1fa63fla9j,Heater 300W
+device_id,name,product,product_type,usage_type
+ebd9f8a59c1627ccbfekab,Study room,M28EMCBBL,Wifi Socket,Study
+eb3002c57cc7173709c2ow,Heater 2,M28EMCBBL,Wifi Socket,Heater
+ebaccf355c27310740a2aq,Refrigerator,M28EMCBBL,Wifi Socket,Refrigerator
+eb7f4b484b88880d26syuf,Washing machine,M28EMCBBL,Wifi Socket,Washing machine
+eb494da64ad42697ffjt87,Heater 3,M28EMCBBL,Wifi Socket,Heater
+ebe097055f10e8fa08umi6,Heater 1,M28EMCBBL,Wifi Socket,Heater
+ebd5df1142bb22b06c2tep,Heater 4,M28EMCBBL,Wifi Socket,Heater
+ebf6e301aeda1fa63fla9j,Heater 300W,M28EMCBBL,Wifi Socket,Heater
+eb374a498ce4e60a19bsnm,Hot water 6 Meldrum,AT2PL,Smart Meter,Hot water
